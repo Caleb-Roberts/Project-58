@@ -1,0 +1,28 @@
+body
+{
+  text-align: center;
+ background: linear-gradient( #E1BEE7 0%,#90CAF9 100%
+ ) ;
+  background-repeat:no-repeat;
+  height:900px
+  
+}
+h1{
+  text-shadow:2px 2px #F8BBD0;
+  font-size:20px
+}
+.menu{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    float: right;
+    font-family: cursive;
+    cursor: pointer;
+    color:black;
+}
+.item{
+    padding:10px;
+}
+#welcome{
+    font-family: 'Roboto Condensed', sans-serif;
+}
